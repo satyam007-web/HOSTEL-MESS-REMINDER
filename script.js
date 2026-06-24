@@ -4,7 +4,7 @@ if (Notification.permission !== "granted") {
 
 let breakfast = "08:00";
 let lunch = "13:00";
-let dinner = "11:50";
+let dinner = "08:00";
 
 function checkMealTime() {
 
